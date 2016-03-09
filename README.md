@@ -19,3 +19,5 @@ A Symfony project created on February 12, 2016, 8:32 pm.
 
 9 Mar, 20:36 - Merged with release 1.1
 
+9 Mar, 20:56 - Merged with release 1.3
+
